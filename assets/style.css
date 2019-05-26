@@ -1,0 +1,20 @@
+body {
+
+    background-color: black;
+}
+
+h1 {
+
+    text-align: Center;
+    color: teal;
+}
+
+.btn-group {
+
+    background-color: teal;
+    padding: 20px 30px;
+    border: 1.5px;
+    color: white;
+    text-align: center;
+
+}
